@@ -1,2 +1,1 @@
-# ATO FANSUB
-Sitemize hoş geldiniz.
+Algo Trader.
